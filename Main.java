@@ -97,7 +97,7 @@ public class Main {
         System.out.println("Age: " + age);
         System.out.println("Marks: " + marks);
     
-//Add two numbers
+//Add two Numbers
   System.out.print("Enter first number: ");
         int a = sc.nextInt();
 
